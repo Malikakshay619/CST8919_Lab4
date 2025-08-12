@@ -11,6 +11,7 @@ Content-Type: application/json
   }
 }
 
+
 ### Test trip - Expected isInteresting: true
 POST https://romeofunction.azurewebsites.net/api/trip
 Content-Type: application/json
